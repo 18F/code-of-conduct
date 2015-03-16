@@ -16,9 +16,7 @@ If you are unsure if something is appropriate behavior, it probably isn’t. Eac
 
 Here are a few examples of unacceptable behavior:
 
-* Harassment based on the protected classes as listed in the [GSA Anti-harassment Policy](http://www.gsa.gov/portal/directive/d0/content/663070) of race, religion, color, sex (with or without sexual conduct and including pregnancy and sexual orientation involving transgender status/gender identity, and sex-stereotyping), national origin, retaliation, age, disability (physical or mental), genetic information, sexual orientation, gender identity, parental status, marital status, and political affiliation
-
-* Negative or offensive remarks based on the above classes, as well as gender expression, mental illness, socioeconomic status or background, neuro(a)typicality, physical appearance, body size, or clothing.  *Consider that calling attention to differences can feel alienating.*
+* Negative or offensive remarks based on the protected classes as listed in the [GSA Anti-harassment Policy](http://www.gsa.gov/portal/directive/d0/content/663070) of race, religion, color, sex (with or without sexual conduct and including pregnancy and sexual orientation involving transgender status/gender identity, and sex-stereotyping), national origin, retaliation, age, disability (physical or mental), genetic information, sexual orientation, gender identity, parental status, marital status, and political affiliation **as well as** gender expression, mental illness, socioeconomic status or background, neuro(a)typicality, physical appearance, body size, or clothing.  **Consider that calling attention to differences can feel alienating.**
 
 * Touching people without their affirmative consent.
 
