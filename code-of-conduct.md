@@ -29,3 +29,26 @@ Here are a few examples of unacceptable behavior:
 * Aggressive and micro-aggressive behavior, such as unconstructive criticism, providing corrections that do not improve the conversation (sometimes referred to as "well actually"s), repeatedly interrupting or talking over someone else, feigning surprise at someone’s lack of knowledge or awareness about a topic, or subtle prejudice (for example, comments like “That’s so easy my grandmother could do it.”).
 
 * Referring to people in a way that misidentifies their gender and/or rejects the validity of their gender identity; for instance by using incorrect pronouns or forms of address (misgendering).
+
+### Credits
+
+18F is greatly appreciative of the multiple sources that we drew from to build this Code of Conduct, including:
+
+* [Bridge Foundry Code of Conduct](http://bridgefoundry.org/code-of-conduct/) used for RailsBridge, and other related workshops and open source projects
+* [https://openhatch.org/wiki/Project_codes_of_conduct](https://openhatch.org/wiki/Project_codes_of_conduct)
+* [http://yesandyesyes.com/code-of-conduct](http://yesandyesyes.com/code-of-conduct)
+* [http://adainitiative.org/2014/02/howto-design-a-code-of-conduct-for-your-community/](http://adainitiative.org/2014/02/howto-design-a-code-of-conduct-for-your-community/)
+* [http://www.pyladies.com/CodeOfConduct/](http://www.pyladies.com/CodeOfConduct/)
+* [https://www.hackerschool.com/manual#sec-environment](https://www.hackerschool.com/manual#sec-environment)
+* [http://geekfeminism.org/about/code-of-conduct/](http://geekfeminism.org/about/code-of-conduct/)
+* [https://www.python.org/psf/codeofconduct/](https://www.python.org/psf/codeofconduct/)
+* [http://geekfeminism.wikia.com/wiki/Code_of_conduct](http://geekfeminism.wikia.com/wiki/Code_of_conduct)
+* [Code for America](https://github.com/codeforamerica/codeofconduct)
+
+Relevant legal considerations:
+
+* [Laws enforced by the Equal Employment Opportunity Commission](http://www.eeoc.gov/laws/statutes/index.cfm)
+
+* [Types of Discrimination prohibited by law](http://www.eeoc.gov/laws/types/)
+
+* [New and proposed regulations](http://www.eeoc.gov/laws/regulations/index.cfm)
