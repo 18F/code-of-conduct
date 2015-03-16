@@ -35,9 +35,9 @@ Here are a few examples of unacceptable behavior:
 18F is greatly appreciative of the multiple sources that we drew from to build this Code of Conduct, including:
 
 * [Bridge Foundry Code of Conduct](http://bridgefoundry.org/code-of-conduct/) used for RailsBridge, and other related workshops and open source projects
-* [https://openhatch.org/wiki/Project_codes_of_conduct](https://openhatch.org/wiki/Project_codes_of_conduct)
-* [http://yesandyesyes.com/code-of-conduct](http://yesandyesyes.com/code-of-conduct)
-* [http://adainitiative.org/2014/02/howto-design-a-code-of-conduct-for-your-community/](http://adainitiative.org/2014/02/howto-design-a-code-of-conduct-for-your-community/)
+* [Open Hatch Project Codes of Conduct](https://openhatch.org/wiki/Project_codes_of_conduct)
+* [Yes and Yes Yes Code of Conduct](http://yesandyesyes.com/code-of-conduct)
+* [Ada Initiative: HOWTO design a code of conduct for your community](http://adainitiative.org/2014/02/howto-design-a-code-of-conduct-for-your-community/)
 * [http://www.pyladies.com/CodeOfConduct/](http://www.pyladies.com/CodeOfConduct/)
 * [https://www.hackerschool.com/manual#sec-environment](https://www.hackerschool.com/manual#sec-environment)
 * [http://geekfeminism.org/about/code-of-conduct/](http://geekfeminism.org/about/code-of-conduct/)
