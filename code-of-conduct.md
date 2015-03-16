@@ -38,17 +38,16 @@ Here are a few examples of unacceptable behavior:
 * [Open Hatch Project Codes of Conduct](https://openhatch.org/wiki/Project_codes_of_conduct)
 * [Yes and Yes Yes Code of Conduct](http://yesandyesyes.com/code-of-conduct)
 * [Ada Initiative: HOWTO design a code of conduct for your community](http://adainitiative.org/2014/02/howto-design-a-code-of-conduct-for-your-community/)
-* [http://www.pyladies.com/CodeOfConduct/](http://www.pyladies.com/CodeOfConduct/)
-* [https://www.hackerschool.com/manual#sec-environment](https://www.hackerschool.com/manual#sec-environment)
-* [http://geekfeminism.org/about/code-of-conduct/](http://geekfeminism.org/about/code-of-conduct/)
-* [https://www.python.org/psf/codeofconduct/](https://www.python.org/psf/codeofconduct/)
-* [http://geekfeminism.wikia.com/wiki/Code_of_conduct](http://geekfeminism.wikia.com/wiki/Code_of_conduct)
-* [Code for America](https://github.com/codeforamerica/codeofconduct)
+* [PyLadies Code of Conduct](http://www.pyladies.com/CodeOfConduct/)
+* [Hacker School User's Manual: The Environment](https://www.hackerschool.com/manual#sec-environment)
+* [Geek Feminism Code of Conduct](http://geekfeminism.org/about/code-of-conduct/)
+* [Geek Feminism Wiki: Codes of Conduct Evaluations](http://geekfeminism.wikia.com/wiki/Code_of_conduct)
+* [Python Code of Conduct](https://www.python.org/psf/codeofconduct/)
+* [Code for America Code of Conduct](https://github.com/codeforamerica/codeofconduct)
 
 Relevant legal considerations:
 
+* [GSA Anti-harassment Policy](http://www.gsa.gov/portal/directive/d0/content/663070)
 * [Laws enforced by the Equal Employment Opportunity Commission](http://www.eeoc.gov/laws/statutes/index.cfm)
-
 * [Types of Discrimination prohibited by law](http://www.eeoc.gov/laws/types/)
-
 * [New and proposed regulations](http://www.eeoc.gov/laws/regulations/index.cfm)
