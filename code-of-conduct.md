@@ -6,7 +6,7 @@ This is the 18F Code of Conduct. We follow all Equal Employment Opportunity laws
 
 ### Be Empowering
 
-Consider what you can do to encourage and support others. Make room for quieter voices to contribute. Leverage the low cost of experimentation to support your colleagues' ideas. When someone offers something unexpected, look for ways you can contribute and collaborate. Share your knowledge and skills. Prioritize access for and input from those who are traditionally excluded from the civic process.   
+Consider what you can do to encourage and support others. Make room for quieter voices to contribute. Offer support and enthusiasm for great ideas. Leverage the low cost of experimentation to support your colleagues' ideas. When someone offers something unexpected, look for ways you can contribute and collaborate. Share your knowledge and skills. Prioritize access for and input from those who are traditionally excluded from the civic process.  
 
 ### Boundaries
 
