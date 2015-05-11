@@ -6,7 +6,7 @@ This repository contains the official [Code of Conduct](code-of-conduct.md) of [
 
 ### Reporting
 
-This Code of Conduct is a work in progress. A formal reporting process has not yet been established. In the meantime, if you are being harassed in an 18F space, please speak to the organizer/admin of that space. If you can't reach them or are uncomfortable talking to them, any member of the 18F team can put you in touch with 18F executive director Greg Godbout or co-founders Hillary Hartley or Aaron Snow. GSA employees also have the option of raising their concerns with Human Resources. Nothing in this policy is intended to limit your rights and responsibilities as established in law and GSA policy.
+This Code of Conduct is a work in progress. A formal reporting process has not yet been established. In the meantime, if you are being harassed in an 18F space, please speak to the organizer/admin of that space. If you can't reach them or are uncomfortable talking to them, any member of the 18F team can put you in touch with 18F Acting Executive Director Aaron Snow or Deputy Executive Director Hillary Hartley. GSA employees also have the option of raising their concerns with the [Office of Human Resources Management](http://www.gsa.gov/portal/category/21403) or the [Office of Civil Rights](http://www.gsa.gov/portal/content/101013). Nothing in this policy limits your rights and responsibilities as established in law and GSA policy.
 
 ### Credits
 
