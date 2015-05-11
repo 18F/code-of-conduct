@@ -12,25 +12,25 @@ This Code of Conduct is a work in progress. A formal reporting process has not y
 
 18F drew from multiple sources to build this Code of Conduct, including:
 
+* [Ada Initiative How To Design a Code of Conduct for your Community](http://adainitiative.org/2014/02/howto-design-a-code-of-conduct-for-your-community/)
+
 * [Bridge Foundry Code of Conduct](http://bridgefoundry.org/code-of-conduct/) used for RailsBridge, and other related workshops and open source projects
 
-* [https://openhatch.org/wiki/Project_codes_of_conduct](https://openhatch.org/wiki/Project_codes_of_conduct)
+* [Code for America's Code of Conduct](https://github.com/codeforamerica/codeofconduct)
 
-* [http://yesandyesyes.com/code-of-conduct](http://yesandyesyes.com/code-of-conduct)
+* [Geek Feminism CoC Evaluations](http://geekfeminism.wikia.com/wiki/Code_of_conduct)
 
-* [http://adainitiative.org/2014/02/howto-design-a-code-of-conduct-for-your-community/](http://adainitiative.org/2014/02/howto-design-a-code-of-conduct-for-your-community/)
+* [Geek Feminism Code of Conduct](http://geekfeminism.org/about/code-of-conduct/)
 
-* [http://www.pyladies.com/CodeOfConduct/](http://www.pyladies.com/CodeOfConduct/)
+* [OpenHatch Project Codes of Conduct](https://openhatch.org/wiki/Project_codes_of_conduct)
 
-* [https://www.hackerschool.com/manual#sec-environment](https://www.hackerschool.com/manual#sec-environment)
+* [Pyladies Code of Conduct](http://www.pyladies.com/CodeOfConduct/)
 
-* [http://geekfeminism.org/about/code-of-conduct/](http://geekfeminism.org/about/code-of-conduct/)
+* [Python Community Code of Conduct](https://www.python.org/psf/codeofconduct/)
 
-* [https://www.python.org/psf/codeofconduct/](https://www.python.org/psf/codeofconduct/)
+* [The Recurse Center User's Manual on the Environment](https://www.hackerschool.com/manual#sec-environment)
 
-* [http://geekfeminism.wikia.com/wiki/Code_of_conduct](http://geekfeminism.wikia.com/wiki/Code_of_conduct)
-
-* https://github.com/codeforamerica/codeofconduct
+* [Yes and Yes Yes](http://yesandyesyes.com/code-of-conduct)
 
 Relevant legal considerations:
 
