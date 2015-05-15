@@ -1,6 +1,6 @@
 This is the 18F Code of Conduct. It applies to all of our methods of communication: office chatrooms, commit messages, email, and both formal and informal conversation.
 
-18F follows all Equal Employment Opportunity laws, and our expectations are even higher.  We expect everyone we work with to adhere to the [GSA Anti-harassment Policy](http://www.gsa.gov/portal/directive/d0/content/663070), even if they do not work for the General Services Administration. We expect everyone who works at, attends, or participates virtually with 18F to follow this code of conduct and the laws and policies mentioned herein.
+18F follows all Equal Employment Opportunity laws, and our expectations are even higher.  We expect everyone we work with to adhere to the [GSA Anti-harassment Policy](http://www.gsa.gov/portal/directive/d0/content/663070), even if they do not work for the General Services Administration. We expect everyone who works at, attends, or participates virtually with 18F to follow this code of conduct and the laws and policies it mentions.
 
 ### Creating a Culture of Innovation
 
