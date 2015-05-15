@@ -1,8 +1,12 @@
+This is the 18F Code of Conduct. It applies to all of our methods of communication: office chatrooms, commit messages, email, and both formal and informal conversation.
+
+18F follows all Equal Employment Opportunity laws, and our expectations are even higher.  We expect everyone we work with to adhere to the [GSA Anti-harassment Policy](http://www.gsa.gov/portal/directive/d0/content/663070), even if they do not work for the General Services Administration. We expect everyone who works at, attends, or participates virtually with 18F to follow this code of conduct and the laws and policies mentioned herein.
+
 ### Creating a Culture of Innovation
 
-We aspire to create a culture where people work joyfully, communicate openly about things that matter, and provide great services for the American people and the world. We would like our team and our communities (including government and private sector colleagues) to reflect the diversity of America. We want to foster diversity of all kinds&mdash;not just the classes protected in law. Diversity fosters innovation. Diverse teams are creative teams. We need a diversity of perspective to create solutions for the real and urgent challenges we face.
+We want to create an environment where people can work joyfully and communicate openly while providing great service to the American people. 
 
-This is the 18F Code of Conduct. We follow all Equal Employment Opportunity laws, and our expectations are higher.  We expect everyone we work with to adhere to the [GSA Anti-harassment Policy](http://www.gsa.gov/portal/directive/d0/content/663070), even if they do not work for the General Services Administration. We expect everyone who works at 18F, attends 18F events and meetings, or participates in online forums or other virtual collaboration to follow this code of conduct and the laws and policies mentioned above. This applies to all of our methods of communication: office chatrooms, commit messages, email, and both formal and informal conversation.
+We want to foster diversity of all kinds&mdash;not just the classes protected in law.  Our team and our communities (including our government and private-sector colleagues) should reflect the diversity of America. 
 
 ### Be Empowering
 
