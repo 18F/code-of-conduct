@@ -20,7 +20,7 @@ Here are a few examples of unacceptable behavior:
 
 * Touching people without their affirmative consent.
 
-* Sustained and negative disruption of meetings or talks.
+* Sustained disruption of meetings, talks, or discussions, including chatrooms.
 
 * Patronizing language or behavior.
 
