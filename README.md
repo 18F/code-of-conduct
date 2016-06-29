@@ -6,7 +6,7 @@ This repository contains the official [Code of Conduct](code-of-conduct.md) of [
 
 ### Reporting
 
-This Code of Conduct is a work in progress. A formal reporting process has not yet been established. In the meantime, if you are being harassed in an 18F space, please speak to the organizer/admin of that space. If you can't reach them or are uncomfortable talking to them, any member of the 18F team can put you in touch with 18F Acting Executive Director Aaron Snow or Deputy Executive Director Hillary Hartley. GSA employees also have the option of raising their concerns with the [Office of Human Resources Management](http://www.gsa.gov/portal/category/21403) or the [Office of Civil Rights](http://www.gsa.gov/portal/content/101013). Nothing in this policy limits your rights and responsibilities as established in law and GSA policy.
+18F staff who are being mistreated in 18F spaces should report the issue to their supervisor. If they are uncomfortable speaking to their supervisor, GSA employees also have the option to raise their concerns with talent team director Jen Tress, the [Office of Human Resources Management](http://www.gsa.gov/portal/category/21403), or the [Office of Civil Rights](http://www.gsa.gov/portal/content/101013). This code of conduct is not intended to limit your rights as established in law and GSA policy. If you are not a member of the 18F team, any member of the team can put you in touch with any of the above points of contact.
 
 ### Credits
 
