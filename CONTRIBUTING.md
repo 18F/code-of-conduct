@@ -1,6 +1,6 @@
 ## Welcome!
 
-We're so glad you're thinking about contributing to an 18F open source project! If you're unsure or afraid of anything, just ask or submit the issue or pull request anyways. The worst that can happen is that you'll be politely asked to change something. We appreciate any sort of contribution, and don't want a wall of rules to get in the way of that.
+We're so glad you're thinking about contributing to a TTS open source project! If you're unsure or afraid of anything, just ask or submit the issue or pull request anyway. The worst that can happen is that you'll be politely asked to change something. We appreciate any sort of contribution, and don't want a wall of rules to get in the way of that.
 
 Before contributing, we encourage you to read our CONTRIBUTING policy (you are here), our LICENSE, and our README, all of which should be in this repository. If you have any questions, or want to read more about our underlying policies, you can consult the 18F Open Source Policy GitHub repository at https://github.com/18f/open-source-policy, or just shoot us an email/official government letterhead note to [18f@gsa.gov](mailto:18f@gsa.gov).
 
@@ -25,10 +25,3 @@ If you don't have specific language to submit but you have a change to suggest o
 #### Submit A Pull Request
 
 If you have specific language to contribute, please submit a pull request.
-
-In order for us to merge a pull request, it must:
-
-- Be at least seven days old. Pull Requests may be held longer if necessary to give people a reasonable chance to weigh in.
-- Receive a +1 from a majority of the members of the code of conduct working group who have opted into the conversation about it.
-
-If there is significant dissent from within 18F, a meeting will be held to discuss it before any action is taken on the pull request.
