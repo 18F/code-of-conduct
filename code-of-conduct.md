@@ -1,50 +1,152 @@
-### Creating a Culture of Innovation
+# Table of Contents
 
-We aspire to create a culture where people work joyfully, communicate openly about things that matter, and provide great services for the American people and the world. We would like our team and our communities (including government and private sector colleagues) to reflect the diversity of America. We want to foster diversity of all kinds&mdash;not just the classes protected in law. Diversity fosters innovation. Diverse teams are creative teams. We need a diversity of perspective to create solutions for the real and urgent challenges we face.
+[[TOC]]
 
-This is the 18F Code of Conduct. We follow all Equal Employment Opportunity laws, and our expectations are higher.  We expect everyone we work with to adhere to the [GSA Anti-harassment Policy](http://www.gsa.gov/portal/directive/d0/content/512516), even if they do not work for the General Services Administration. We expect everyone who works at 18F, attends 18F events and meetings, or participates in online forums or other virtual collaboration to follow this code of conduct and the laws and policies mentioned above. This applies to all of our methods of communication: office chatrooms, commit messages, email, and both formal and informal conversation.
+# Introduction
 
-### Be Empowering
+TTS is committed to building a safe, welcoming, harassment-free culture for everyone. 
 
-Consider what you can do to encourage and support others. Make room for quieter voices to contribute. Offer support and enthusiasm for great ideas. Leverage the low cost of experimentation to support your colleagues' ideas, and take care to acknowledge the original source, not just the most recent or loudest contributor. When someone offers something unexpected, look for ways you can contribute and collaborate. Share your knowledge and skills. Prioritize access for and input from those who are traditionally excluded from the civic process.
+We adhere to the [GSA Anti-harassment Policy](http://www.gsa.gov/portal/directive/d0/content/512516), which covers forms of harassment from which federal employees are protected as a matter of law. But our standards are higher. We don’t merely want a work environment that's free from hostility; we want one that is actively welcoming and inclusive. We want our team and our workplace culture to reflect and celebrate the diversity of the communities we serve.
 
-### Boundaries
+This is our Code of Conduct. We expect everyone on the TTS team to exhibit these behaviors. In addition, we expect everyone within TTS spaces to exhibit these behaviors and follow the GSA anti-harassment policy while you are in our spaces. These spaces include:
 
-Create boundaries to your own behavior and consider how you can create safe space that helps prevent unacceptable behavior by others. We do not seek to list all cases of unacceptable behavior, but provide examples to help guide our community in thinking through how to respond when we experience these types of behavior, whether directed at ourselves or others.
+* TTS’s physical offices,
 
-If you are unsure if something is appropriate behavior, it probably isn’t. Each person you interact with can define where that line is for them. *Impact matters more than intent.* Ensuring that your behavior does not have a negative impact is your responsibility. Problems happen when we assume that our way of thinking or behaving is the norm or ok with everyone. This is particularly problematic when we are in a position of power or privilege.
+* TTS events and meetings,
 
-Here are a few examples of unacceptable behavior:
+* All of our online forums and virtual collaboration tools, including:
 
-* Negative or offensive remarks based on the protected classes as listed in the [GSA Anti-harassment Policy](http://www.gsa.gov/portal/directive/d0/content/512516) of race, religion, color, sex (with or without sexual conduct and including pregnancy and sexual orientation involving transgender status/gender identity, and sex-stereotyping), national origin, age, disability (physical or mental), genetic information, sexual orientation, gender identity, parental status, marital status, and political affiliation **as well as** gender expression, mental illness, socioeconomic status or background, neuro(a)typicality, physical appearance, body size, or clothing.  **Consider that calling attention to differences can feel alienating.**
+    * Office chat rooms, like Slack
+
+    * Mailing lists and email
+
+    * Code repositories, like Github
+
+## What We Strive For
+
+We strive to create a welcoming and inclusive culture that empowers people to provide outstanding public service. That kind of atmosphere requires an open exchange of ideas balanced by thoughtful guidelines. If we have only openness, colleagues who are on the receiving end of thoughtless or intentionally hurtful comments and behavior may reasonably withdraw. If we have overly intrusive guidelines, they’ll make people feel unwelcome.
+
+It would be impossible to list everything people can do to create a more welcoming space, and we know this team will find ways to include their colleagues that we haven't even thought of. But when in doubt, we encourage you to look to these principles for guidance:
+
+* Be humble; practice empathy and humility.
+
+* Assume competence in your colleagues, clients and the public.
+
+* Assume that everyone we work with is doing their best work for the public.
+
+* Listen carefully and actively.
+
+* Ask questions, and seek to understand your partners’ context.
+
+* Encourage other people to listen as much as they speak.
+
+* Prioritize access for and input from those who are traditionally excluded from the civic process.
+
+## Unacceptable Behavior
+
+To help colleagues understand the kinds of behaviors that are illegal or run counter to the culture we seek to foster, **we’ve listed below actions that violate GSA policy and those that violate TTS policy.** We’ve also included steps to take if you believe a colleague has violated either policy. 
+
+### The [GSA Anti-harassment Policy](http://www.gsa.gov/portal/directive/d0/content/512516) forbids:
+
+* Sexual harassment and misconduct, as defined in [GSA Order 2325.8 Section 3(b) and 3(c)](https://www.gsa.gov/portal/directive/d0/content/512516)
+
+* Unwelcome verbal or written comment or physical conduct that is so objectively offensive that it alters the terms or conditions of employment or creates a hostile work environment; when it is based on:
+
+    * race,
+
+    * religion,
+
+    * color,
+
+    * sex (with or without sexual conduct and including pregnancy and sexual orientation involving transgender status/gender identity, and sex-stereotyping),
+
+    * national origin,
+
+    * age,
+
+    * disability,
+
+    * genetic information,
+
+    * sexual orientation,
+
+    * gender identity,
+
+    * parental status,
+
+    * marital status,
+
+    * or political affiliation.
+
+* Retaliating against anyone who files a formal complaint that someone has violated the GSA anti-harassment policy.
+
+#### How To Report Violations of the GSA Anti-Harassment Policy
+
+All violations of GSA’s anti-harassment policy are also violations of this Code of Conduct, and we encourage you to report them to your supervisor or the TTS Talent team so that TTS can take any necessary steps to ensure that we have a safe and welcoming team.
+
+The reporting process for the GSA’s Anti-Harassment Policy can be found in [GSA Order 2325.8 Section 3(d)](https://www.gsa.gov/portal/directive/d0/content/512516). Depending on your complaint, you may have a 45-day window from the date of the incident to report it to the GSA. Please read the GSA information carefully. 
+
+### TTS Policy 
+
+### TTS adheres to GSA anti-harassment policy. We also consider the following behavior unacceptable, as it undermines a safe and collaborative workplace for all:
+
+* Negative or offensive remarks based on any of the protected categories listed in the GSA Anti-Harassment policy, as well as negative or offensive remarks based on:
+
+    * gender expression,
+
+    * mental illness,
+
+    * socioeconomic status or background,
+
+    * neuro(a)typicality,
+
+    * physical appearance,
+
+    * body size,
+
+    * or clothing.
 
 * Touching people without their affirmative consent.
 
 * Sustained disruption of meetings, talks, or discussions, including chatrooms.
 
-* Patronizing language or behavior.
+* Intentionally or repeatedly referring to people in a way that rejects the validity of their gender identity; for instance, by using incorrect pronouns or forms of address (misgendering).
 
-* Aggressive and micro-aggressive behavior, such as unconstructive criticism, providing corrections that do not improve the conversation (sometimes referred to as "well actually"s), repeatedly interrupting or talking over someone else, feigning surprise at someone’s lack of knowledge or awareness about a topic, or subtle prejudice (for example, comments like “That’s so easy my grandmother could do it.”).
+* Microagressions, which are small comments or questions, either intentional or unintentional, that marginalize people by communicating hostile, derogatory, or negative beliefs. Examples include:
 
-* Referring to people in a way that misidentifies their gender and/or rejects the validity of their gender identity; for instance by using incorrect pronouns or forms of address (misgendering).
+    * Patronizing language or behavior
 
-* Retaliating against anyone who files a formal complaint that someone has violated these codes or laws. 
+        * Pedantic corrections that don’t contribute to the conversation (for example, when someone is using "democracy" to mean “participatory government,” saying “Well actually, we’re not a democracy; we’re a democratic republic.”)
 
+        * Assuming without asking that particular people or groups need concepts defined or explained to them. (It’s great to be sensitive to the fact that clients and coworkers may not be familiar with technical or government terms you use every day! But assuming that people are uninformed can come across as patronizing.) 
 
-### Credits
+        * Assuming that particular groups of people are technically unskilled ("So easy your grandmother could do it.") 
 
-18F is greatly appreciative of the multiple sources that we drew from to build this Code of Conduct, including:
+    * Repeatedly interrupting or talking over someone else
 
-* [Bridge Foundry Code of Conduct](http://bridgefoundry.org/code-of-conduct/) used for RailsBridge, and other related workshops and open source projects
-* [Open Hatch Project Codes of Conduct](https://openhatch.org/wiki/Project_codes_of_conduct)
-* [Yes and Yes Yes Code of Conduct](http://yesandyesyes.com/code-of-conduct)
-* [Ada Initiative: HOWTO design a code of conduct for your community](http://adainitiative.org/2014/02/howto-design-a-code-of-conduct-for-your-community/)
-* [PyLadies Code of Conduct](http://www.pyladies.com/CodeOfConduct/)
-* [Hacker School User's Manual: The Environment](https://www.hackerschool.com/manual#sec-environment)
-* [Geek Feminism Code of Conduct](http://geekfeminism.org/about/code-of-conduct/)
-* [Geek Feminism Wiki: Codes of Conduct Evaluations](http://geekfeminism.wikia.com/wiki/Code_of_conduct)
-* [Python Code of Conduct](https://www.python.org/psf/codeofconduct/)
+    * Feigning surprise at someone’s lack of knowledge or awareness about a topic 
+
+    * The use of racially charged language to describe an individual or thing such as "thug" or “ghetto”
+
+    * Referring to an individual in a way that demeans or challenges the validity of their racial identity 
+
+    * Mocking someone’s real or perceived accent or first language.
+
+* Retaliating against anyone who files a complaint that someone has violated this code of conduct.
+
+#### How To Address Code of Conduct Concerns
+
+If something has happened to make you feel unsafe, unwelcome, or excluded, or if you observe behavior that appears to make others feel unsafe, unwelcome, or excluded, please speak to your supervisor. They can help you determine the appropriate course of action to resolve the problem. We encourage you to speak to your supervisor as soon as possible so that the situation can be addressed promptly.
+
+[Here is the guideline for supervisors on how to address code of conduct concerns](https://docs.google.com/document/d/1Br5FJfzwb18a_GESTYIo713PC02I2HkDvhXnZTM-Y5k/edit#).
+
+## Credits
+
+TTS is greatly appreciative of the multiple sources that we drew from to build this Code of Conduct, including:
+
 * [Code for America Code of Conduct](https://github.com/codeforamerica/codeofconduct)
+* [Ada Initiative: HOWTO design a code of conduct for your community](http://adainitiative.org/2014/02/howto-design-a-code-of-conduct-for-your-community/)
+* [Geek Feminism Code of Conduct](http://geekfeminism.org/about/code-of-conduct/)
 
 Relevant legal considerations:
 
