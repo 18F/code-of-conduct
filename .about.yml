@@ -1,7 +1,7 @@
 
 ---
 name: code-of-conduct
-full_name: Code of Conduct Working Group
+full_name: Code of Conduct
 status: active
 private:
-  slack: wg-code-of-conduct
+  slack: g-diversity-coc
