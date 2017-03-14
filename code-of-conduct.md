@@ -6,13 +6,13 @@
 
 [Unacceptable Behavior](https://github.com/18F/code-of-conduct/blob/master/code-of-conduct.md#unacceptable-behavior)
 
-    [The GSA Anti-Harassment Policy](https://github.com/18F/code-of-conduct/blob/master/code-of-conduct.md#the-gsa-anti-harassment-policy-forbids)
+   [The GSA Anti-Harassment Policy](https://github.com/18F/code-of-conduct/blob/master/code-of-conduct.md#the-gsa-anti-harassment-policy-forbids)
     
-        [How To Report Violations of the GSA Anti-Harassment Policy](https://github.com/18F/code-of-conduct/blob/master/code-of-conduct.md#how-to-report-violations-of-the-gsa-anti-harassment-policy)
+      [How To Report Violations of the GSA Anti-Harassment Policy](https://github.com/18F/code-of-conduct/blob/master/code-of-conduct.md#how-to-report-violations-of-the-gsa-anti-harassment-policy)
         
     [TTS Policy](https://github.com/18F/code-of-conduct/blob/master/code-of-conduct.md#tts-policy)
     
-        [How To Address Code of Conduct Concerns](https://github.com/18F/code-of-conduct/blob/master/code-of-conduct.md#how-to-address-code-of-conduct-concerns)
+       [How To Address Code of Conduct Concerns](https://github.com/18F/code-of-conduct/blob/master/code-of-conduct.md#how-to-address-code-of-conduct-concerns)
         
 [Credits](https://github.com/18F/code-of-conduct/blob/master/code-of-conduct.md#credits)   
 
