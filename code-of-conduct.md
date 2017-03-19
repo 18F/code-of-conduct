@@ -20,7 +20,7 @@
 
 ## Introduction
 
-TTS is committed to building a safe, welcoming, harassment-free culture for everyone. 
+The Technology Transformation Service (TTS) is committed to building a safe, welcoming, harassment-free culture for everyone. 
 
 We adhere to the [GSA Anti-harassment Policy](http://www.gsa.gov/portal/directive/d0/content/512516), which covers forms of harassment from which federal employees are protected as a matter of law. But our standards are higher. We don’t merely want a work environment that's free from hostility; we want one that is actively welcoming and inclusive. We want our team and our workplace culture to reflect and celebrate the diversity of the communities we serve.
 
@@ -104,7 +104,7 @@ The reporting process for the GSA’s Anti-Harassment Policy can be found in [GS
 
 ### TTS Policy 
 
-TTS adheres to GSA anti-harassment policy. We also consider the following behavior unacceptable, as it undermines a safe and collaborative workplace for all:
+TTS adheres to the GSA anti-harassment policy. We also consider the following behavior unacceptable, as it undermines a safe and collaborative workplace for all:
 
 * Negative or offensive remarks based on any of the protected categories listed in the GSA Anti-Harassment policy, as well as negative or offensive remarks based on:
 
