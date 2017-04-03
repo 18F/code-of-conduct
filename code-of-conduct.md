@@ -36,7 +36,7 @@ This is our Code of Conduct. We expect everyone on the TTS team to exhibit these
 
     * Mailing lists and email
 
-    * Code repositories, like Github
+    * Code repositories, like GitHub
 
 ## What We Strive For
 
