@@ -104,4 +104,4 @@ Laws and Policies Concerning Workplace Harassment:
 ## Version
 
 Approved May 1, 2018
-Published May 4, 2018
+Published May 7, 2018
