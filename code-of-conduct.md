@@ -64,7 +64,7 @@ The [GSA Policy](http://www.gsa.gov/portal/directive/d0/content/512516) Statemen
   - gender identity,
   - parental status,
   - marital status,
-  - r political affiliation.
+  - or political affiliation.
 - Retaliating against anyone who files a formal complaint that someone has violated GSA anti-harassment policies.
 
 ### Conduct Unbecoming a Federal Employee
