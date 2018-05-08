@@ -48,7 +48,7 @@ It would be impossible to list everything staff can do to create a more welcomin
 To help colleagues understand the kinds of behaviors that are illegal or run counter to the culture we seek to foster, we&#39;ve listed below actions that violate federal law and GSA policy. We&#39;ve also included steps to take if you encounter behavior that runs contrary to this policy.
 
 ### Sexual and Non-Sexual Harassment
-The [GSA Policy](http://www.gsa.gov/portal/directive/d0/content/512516) Statement on Sexual and Non-Sexual Harassment forbids:
+The [GSA Policy](https://www.gsa.gov/portal/directive/d0/content/512516) Statement on Sexual and Non-Sexual Harassment forbids:
 
 - Sexual and non-sexual harassment and misconduct, as defined in [GSA Order ADM 2325.8 Section 3(a), (b) and (c)](https://www.gsa.gov/portal/directive/d0/content/512516).
 - Unwelcome verbal or written comment or physical conduct based on:
@@ -91,15 +91,15 @@ The behaviors listed in this section undermine the culture of inclusion and resp
 TTS is greatly appreciative of the multiple sources that we drew from to build this Code of Conduct, including:
 
 - [Code for America Code of Conduct](https://github.com/codeforamerica/codeofconduct)
-- [Ada Initiative: HOWTO design a code of conduct for your community](http://adainitiative.org/2014/02/howto-design-a-code-of-conduct-for-your-community/)
-- [Geek Feminism Code of Conduct](http://geekfeminism.org/about/code-of-conduct/)
+- [Ada Initiative: HOWTO design a code of conduct for your community](https://adainitiative.org/2014/02/howto-design-a-code-of-conduct-for-your-community/)
+- [Geek Feminism Code of Conduct](https://geekfeminism.org/about/code-of-conduct/)
 
 Laws and Policies Concerning Workplace Harassment:
 
-- [GSA&#39;s Policy Statement on sexual and non-sexual harassment](http://www.gsa.gov/portal/directive/d0/content/512516)
-- [Laws enforced by the Equal Employment Opportunity Commission](http://www.eeoc.gov/laws/statutes/index.cfm)
-- [Types of Discrimination prohibited by law](http://www.eeoc.gov/laws/types/)
-- [New and proposed regulations](http://www.eeoc.gov/laws/regulations/index.cfm)
+- [GSA&#39;s Policy Statement on sexual and non-sexual harassment](https://www.gsa.gov/portal/directive/d0/content/512516)
+- [Laws enforced by the Equal Employment Opportunity Commission](https://www.eeoc.gov/laws/statutes/index.cfm)
+- [Types of Discrimination prohibited by law](https://www.eeoc.gov/laws/types/)
+- [New and proposed regulations](https://www.eeoc.gov/laws/regulations/index.cfm)
 
 ## Version
 
